@@ -13,8 +13,8 @@ Enjoy ❤️
 # Topics Covered
 Cover many core SQL skills and techniques required for data analysis from beginner to advanced levels including:
 
-Where filters and ordering data
-Group by aggregates
+- Where filters and ordering data
+- Group by aggregates
 Identifying and dealing with duplicate data
 Common table expressions and subqueries
 Summary statistics
